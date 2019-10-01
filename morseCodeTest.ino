@@ -3,7 +3,7 @@
  * Linkedin: bit.ly/tanmoyCV
  */
 
-const int buzzer = 9;
+const int buzzer = 9;       // INSERT ONE TERMINAL TO PIN 9 OF ARDUINO AND ANOTHER TO GROUND
 char code[] = "hello world";
 
 int dotLen = 100;
